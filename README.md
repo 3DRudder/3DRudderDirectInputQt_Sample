@@ -33,7 +33,7 @@ Built with
 
   #-- External libraries
 
-	API 3DRudder 
+	None 
 
 
 ---------------------
